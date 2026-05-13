@@ -1,5 +1,5 @@
 {
-    "name": "tarfin-labs/laravel-cloudwatch-logger",
+    "name": "cyberhawk-software/laravel-cloudwatch-logger",
     "description": "Laravel logger for AWS Clouldwatch Log service.",
     "keywords": [
         "tarfin-labs",
